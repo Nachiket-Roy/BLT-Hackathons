@@ -1,8 +1,8 @@
 {
-  "participantCount": 187,
-  "totalPRs": 2567,
-  "mergedPRs": 1637,
-  "totalIssues": 787,
+  "participantCount": 200,
+  "totalPRs": 2649,
+  "mergedPRs": 1650,
+  "totalIssues": 814,
   "repositories": 53,
   "topContributors": [
     {
@@ -26,104 +26,104 @@
   ],
   "recentPRs": [
     {
-      "title": "feat(checks): add timeout-aware tool runner with retry fallback",
-      "url": "https://github.com/OWASP-BLT/BLT-Pool/pull/99",
-      "username": "aryanghai12",
-      "avatar": "https://avatars.githubusercontent.com/u/141923179?v=4",
+      "title": "chore: add Dependabot config for GitHub Actions version updates",
+      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/157",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
       "state": "open",
-      "created_at": "2026-03-24T14:56:47Z",
+      "created_at": "2026-03-27T19:28:04Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Pool"
+      "repository": "OWASP-BLT/BLT-Next"
     },
     {
-      "title": "feat(video-chat): add call health panel with technical WebRTC stats",
-      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/43",
-      "username": "Tejas-Ladhani",
-      "avatar": "https://avatars.githubusercontent.com/u/67834407?v=4",
+      "title": "ci: fix misleading step name for Python setup",
+      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/156",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
       "state": "open",
-      "created_at": "2026-03-24T13:54:00Z",
+      "created_at": "2026-03-27T19:27:16Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-SafeCloak"
+      "repository": "OWASP-BLT/BLT-Next"
     },
     {
-      "title": "Add class-based dark theme toggle across SafeCloak pages",
-      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/42",
-      "username": "Tejas-Ladhani",
-      "avatar": "https://avatars.githubusercontent.com/u/67834407?v=4",
+      "title": "chore: update minimum Node.js engine requirement to 20",
+      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/155",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
       "state": "open",
-      "created_at": "2026-03-24T12:49:09Z",
+      "created_at": "2026-03-27T19:26:38Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-SafeCloak"
+      "repository": "OWASP-BLT/BLT-Next"
     },
     {
-      "title": "Remove remaining OSSH code (URLs, admin, models, tests) - parts of #6030",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6066",
-      "username": "Mahlogonolo8",
-      "avatar": "https://avatars.githubusercontent.com/u/165427201?v=4",
-      "state": "closed",
-      "created_at": "2026-03-24T10:58:29Z",
+      "title": "ci: add concurrency group to check-pr-conflicts workflow",
+      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/154",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:26:02Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/BLT-Next"
     },
     {
-      "title": "Delete OSSH management commands ( part of #6030 )",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6065",
-      "username": "Mahlogonolo8",
-      "avatar": "https://avatars.githubusercontent.com/u/165427201?v=4",
-      "state": "closed",
-      "created_at": "2026-03-24T10:39:05Z",
+      "title": "ci: add workflow_dispatch trigger to CI workflows",
+      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/153",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:25:09Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/BLT-Next"
     },
     {
-      "title": "Delete OSSH views and templates (part of #6030 )",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6064",
-      "username": "Mahlogonolo8",
-      "avatar": "https://avatars.githubusercontent.com/u/165427201?v=4",
-      "state": "closed",
-      "created_at": "2026-03-24T10:28:13Z",
+      "title": "ci: add 15-minute timeout to validate job",
+      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/152",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:24:24Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/BLT-Next"
     },
     {
-      "title": "chore: delete unused ossh includes #6030",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6063",
-      "username": "giftidris4-spec",
-      "avatar": "https://avatars.githubusercontent.com/u/270459024?v=4",
-      "state": "closed",
-      "created_at": "2026-03-24T08:40:02Z",
+      "title": "ci: add set -euo pipefail to screenshot commit step",
+      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/89",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:16:38Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/owasp-blt.github.io"
     },
     {
-      "title": "Add multilingual support for Site interface",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6062",
-      "username": "Manahil-Afzal",
-      "avatar": "https://avatars.githubusercontent.com/u/207878232?v=4",
-      "state": "closed",
-      "created_at": "2026-03-24T05:35:47Z",
+      "title": "ci: skip Pages deployment when data.json has no meaningful changes",
+      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/88",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:15:40Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/owasp-blt.github.io"
     },
     {
-      "title": "chore: delete unused recommended_articles include #6030",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6061",
-      "username": "giftidris4-spec",
-      "avatar": "https://avatars.githubusercontent.com/u/270459024?v=4",
-      "state": "closed",
-      "created_at": "2026-03-23T21:41:47Z",
+      "title": "ci: add concurrency control to screenshot workflow",
+      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/87",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:14:28Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/owasp-blt.github.io"
     },
     {
-      "title": "chore: delete unused recommended_articles include #6030",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6060",
-      "username": "giftidris4-spec",
-      "avatar": "https://avatars.githubusercontent.com/u/270459024?v=4",
-      "state": "closed",
-      "created_at": "2026-03-23T21:38:06Z",
+      "title": "ci: add timeout-minutes to screenshot job",
+      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/86",
+      "username": "Ankitsinghsisodya",
+      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "state": "open",
+      "created_at": "2026-03-27T19:13:51Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
+      "repository": "OWASP-BLT/owasp-blt.github.io"
     }
   ]
 }
