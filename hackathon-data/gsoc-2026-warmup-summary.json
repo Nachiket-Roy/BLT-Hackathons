@@ -1,8 +1,8 @@
 {
   "participantCount": 184,
-  "totalPRs": 2576,
+  "totalPRs": 2578,
   "mergedPRs": 1620,
-  "totalIssues": 825,
+  "totalIssues": 826,
   "repositories": 53,
   "topContributors": [
     {
@@ -25,6 +25,26 @@
     }
   ],
   "recentPRs": [
+    {
+      "title": "Revamp Footer Experience",
+      "url": "https://github.com/OWASP-BLT/BLT-Pages/pull/100",
+      "username": "ananya-09",
+      "avatar": "https://avatars.githubusercontent.com/u/175581593?v=4",
+      "state": "open",
+      "created_at": "2026-03-29T14:17:07Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT-Pages"
+    },
+    {
+      "title": "fix: harden /ghissue logic and modernize architecture documentation",
+      "url": "https://github.com/OWASP-BLT/BLT-Sammich/pull/73",
+      "username": "Makeepan-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/183580740?v=4",
+      "state": "open",
+      "created_at": "2026-03-29T14:05:20Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT-Sammich"
+    },
     {
       "title": "Feat/owasp 2025 json update",
       "url": "https://github.com/OWASP-BLT/BLT-Preflight/pull/23",
@@ -104,26 +124,6 @@
       "created_at": "2026-03-28T17:50:28Z",
       "merged_at": null,
       "repository": "OWASP-BLT/BLT-Design-Contest"
-    },
-    {
-      "title": "Improve URL join handling to prevent invalid peer initialization",
-      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/46",
-      "username": "aimaan-ayaz",
-      "avatar": "https://avatars.githubusercontent.com/u/89684960?v=4",
-      "state": "open",
-      "created_at": "2026-03-28T17:23:21Z",
-      "merged_at": null,
-      "repository": "OWASP-BLT/BLT-SafeCloak"
-    },
-    {
-      "title": "fix: implement ISO-8601 timestamps in health and review endpoints",
-      "url": "https://github.com/OWASP-BLT/BLT-Toasty/pull/40",
-      "username": "JessCode-TheRedumption",
-      "avatar": "https://avatars.githubusercontent.com/u/234758609?v=4",
-      "state": "open",
-      "created_at": "2026-03-28T13:41:09Z",
-      "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Toasty"
     }
   ]
 }
