@@ -1,21 +1,21 @@
 {
-  "participantCount": 200,
-  "totalPRs": 2649,
-  "mergedPRs": 1650,
-  "totalIssues": 814,
+  "participantCount": 184,
+  "totalPRs": 2580,
+  "mergedPRs": 1620,
+  "totalIssues": 833,
   "repositories": 53,
   "topContributors": [
     {
       "username": "Nachiket-Roy",
       "avatar": "https://avatars.githubusercontent.com/u/204239697?v=4",
       "url": "https://github.com/Nachiket-Roy",
-      "mergedCount": 72
+      "mergedCount": 70
     },
     {
       "username": "mdkaifansari04",
       "avatar": "https://avatars.githubusercontent.com/u/117475603?v=4",
       "url": "https://github.com/mdkaifansari04",
-      "mergedCount": 58
+      "mergedCount": 56
     },
     {
       "username": "Pritz395",
@@ -26,104 +26,104 @@
   ],
   "recentPRs": [
     {
-      "title": "chore: add Dependabot config for GitHub Actions version updates",
-      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/157",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "title": "Revamping the footer with a fresh, modern and clean look",
+      "url": "https://github.com/OWASP-BLT/BLT-Pages/pull/101",
+      "username": "ananya-09",
+      "avatar": "https://avatars.githubusercontent.com/u/175581593?v=4",
       "state": "open",
-      "created_at": "2026-03-27T19:28:04Z",
+      "created_at": "2026-03-29T14:50:02Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Next"
+      "repository": "OWASP-BLT/BLT-Pages"
     },
     {
-      "title": "ci: fix misleading step name for Python setup",
-      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/156",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "title": "feat: synchronize slash command registrations and standardize /stats alias",
+      "url": "https://github.com/OWASP-BLT/BLT-Sammich/pull/74",
+      "username": "Makeepan-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/183580740?v=4",
       "state": "open",
-      "created_at": "2026-03-27T19:27:16Z",
+      "created_at": "2026-03-29T14:43:52Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Next"
+      "repository": "OWASP-BLT/BLT-Sammich"
     },
     {
-      "title": "chore: update minimum Node.js engine requirement to 20",
-      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/155",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
-      "state": "open",
-      "created_at": "2026-03-27T19:26:38Z",
+      "title": "Revamp Footer Experience",
+      "url": "https://github.com/OWASP-BLT/BLT-Pages/pull/100",
+      "username": "ananya-09",
+      "avatar": "https://avatars.githubusercontent.com/u/175581593?v=4",
+      "state": "closed",
+      "created_at": "2026-03-29T14:17:07Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Next"
+      "repository": "OWASP-BLT/BLT-Pages"
     },
     {
-      "title": "ci: add concurrency group to check-pr-conflicts workflow",
-      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/154",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "title": "fix: harden /ghissue logic and modernize architecture documentation",
+      "url": "https://github.com/OWASP-BLT/BLT-Sammich/pull/73",
+      "username": "Makeepan-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/183580740?v=4",
       "state": "open",
-      "created_at": "2026-03-27T19:26:02Z",
+      "created_at": "2026-03-29T14:05:20Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Next"
+      "repository": "OWASP-BLT/BLT-Sammich"
     },
     {
-      "title": "ci: add workflow_dispatch trigger to CI workflows",
-      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/153",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
-      "state": "open",
-      "created_at": "2026-03-27T19:25:09Z",
+      "title": "Feat/owasp 2025 json update",
+      "url": "https://github.com/OWASP-BLT/BLT-Preflight/pull/23",
+      "username": "gargi-birwatkar",
+      "avatar": "https://avatars.githubusercontent.com/u/147988352?v=4",
+      "state": "closed",
+      "created_at": "2026-03-29T12:58:03Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Next"
+      "repository": "OWASP-BLT/BLT-Preflight"
     },
     {
-      "title": "ci: add 15-minute timeout to validate job",
-      "url": "https://github.com/OWASP-BLT/BLT-Next/pull/152",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "title": "feat: standardize slash commands and sync app manifest for discovery",
+      "url": "https://github.com/OWASP-BLT/BLT-Sammich/pull/72",
+      "username": "Makeepan-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/183580740?v=4",
       "state": "open",
-      "created_at": "2026-03-27T19:24:24Z",
+      "created_at": "2026-03-29T12:46:12Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Next"
+      "repository": "OWASP-BLT/BLT-Sammich"
     },
     {
-      "title": "ci: add set -euo pipefail to screenshot commit step",
-      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/89",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "title": "docs: modernize README to reflect Cloudflare Workers and D1 architecture",
+      "url": "https://github.com/OWASP-BLT/BLT-Sammich/pull/71",
+      "username": "Makeepan-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/183580740?v=4",
       "state": "open",
-      "created_at": "2026-03-27T19:16:38Z",
+      "created_at": "2026-03-29T11:54:59Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/owasp-blt.github.io"
+      "repository": "OWASP-BLT/BLT-Sammich"
     },
     {
-      "title": "ci: skip Pages deployment when data.json has no meaningful changes",
-      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/88",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
-      "state": "open",
-      "created_at": "2026-03-27T19:15:40Z",
+      "title": "feat: expand REST API for Organizations, Projects, and Hunts to support BLT-Next CRUD",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/6099",
+      "username": "Makeepan-dev",
+      "avatar": "https://avatars.githubusercontent.com/u/183580740?v=4",
+      "state": "closed",
+      "created_at": "2026-03-29T09:21:49Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/owasp-blt.github.io"
+      "repository": "OWASP-BLT/BLT"
     },
     {
-      "title": "ci: add concurrency control to screenshot workflow",
-      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/87",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
+      "title": "refactor: enhance UI resilience and optimize Tailwind configuration",
+      "url": "https://github.com/OWASP-BLT/BLT-Hackathons/pull/86",
+      "username": "JessCode-TheRedumption",
+      "avatar": "https://avatars.githubusercontent.com/u/234758609?v=4",
       "state": "open",
-      "created_at": "2026-03-27T19:14:28Z",
+      "created_at": "2026-03-29T05:10:54Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/owasp-blt.github.io"
+      "repository": "OWASP-BLT/BLT-Hackathons"
     },
     {
-      "title": "ci: add timeout-minutes to screenshot job",
-      "url": "https://github.com/OWASP-BLT/owasp-blt.github.io/pull/86",
-      "username": "Ankitsinghsisodya",
-      "avatar": "https://avatars.githubusercontent.com/u/118156935?v=4",
-      "state": "open",
-      "created_at": "2026-03-27T19:13:51Z",
+      "title": "chore: automated cleanup of redundant import",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/6098",
+      "username": "gargi-birwatkar",
+      "avatar": "https://avatars.githubusercontent.com/u/147988352?v=4",
+      "state": "closed",
+      "created_at": "2026-03-28T21:11:53Z",
       "merged_at": null,
-      "repository": "OWASP-BLT/owasp-blt.github.io"
+      "repository": "OWASP-BLT/BLT"
     }
   ]
 }
