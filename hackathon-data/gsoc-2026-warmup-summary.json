@@ -1,8 +1,8 @@
 {
-  "participantCount": 187,
-  "totalPRs": 2580,
+  "participantCount": 188,
+  "totalPRs": 2581,
   "mergedPRs": 1616,
-  "totalIssues": 771,
+  "totalIssues": 772,
   "repositories": 54,
   "topContributors": [
     {
@@ -25,6 +25,16 @@
     }
   ],
   "recentPRs": [
+    {
+      "title": "fix: add mentor as GitHub assignee in _assign_mentor_to_issue",
+      "url": "https://github.com/OWASP-BLT/BLT-Pool/pull/109",
+      "username": "SatishKumar620",
+      "avatar": "https://avatars.githubusercontent.com/u/168626374?v=4",
+      "state": "open",
+      "created_at": "2026-04-01T18:29:43Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT-Pool"
+    },
     {
       "title": "Fix: broken Details link for PUBG Mobile card",
       "url": "https://github.com/OWASP-BLT/BLT-Panini/pull/20",
@@ -112,16 +122,6 @@
       "avatar": "https://avatars.githubusercontent.com/u/95867819?v=4",
       "state": "open",
       "created_at": "2026-03-31T11:11:20Z",
-      "merged_at": null,
-      "repository": "OWASP-BLT/BLT-SafeCloak"
-    },
-    {
-      "title": "Fix/toast warning style",
-      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/50",
-      "username": "ANIRUDH-SJ",
-      "avatar": "https://avatars.githubusercontent.com/u/95867819?v=4",
-      "state": "open",
-      "created_at": "2026-03-31T09:57:09Z",
       "merged_at": null,
       "repository": "OWASP-BLT/BLT-SafeCloak"
     }
