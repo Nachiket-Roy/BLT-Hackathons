@@ -1,6 +1,6 @@
 {
   "participantCount": 191,
-  "totalPRs": 2595,
+  "totalPRs": 2598,
   "mergedPRs": 1619,
   "totalIssues": 801,
   "repositories": 54,
@@ -25,6 +25,36 @@
     }
   ],
   "recentPRs": [
+    {
+      "title": "add backend API endpoints with health, features, notes, and consent",
+      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/54",
+      "username": "Rudra-rps",
+      "avatar": "https://avatars.githubusercontent.com/u/199046682?v=4",
+      "state": "open",
+      "created_at": "2026-04-02T19:35:53Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT-SafeCloak"
+    },
+    {
+      "title": "# feat(notes): add secure recovery key suite and stabilize python worker infrastructure",
+      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/53",
+      "username": "ojaswa072",
+      "avatar": "https://avatars.githubusercontent.com/u/230836303?v=4",
+      "state": "open",
+      "created_at": "2026-04-02T19:18:40Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT-SafeCloak"
+    },
+    {
+      "title": "Refine contributor gate: count only open + merged PRs (org-wide)",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/6143",
+      "username": "Jayant2908",
+      "avatar": "https://avatars.githubusercontent.com/u/200989760?v=4",
+      "state": "closed",
+      "created_at": "2026-04-02T18:57:25Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT"
+    },
     {
       "title": "Delete `content_management.html` (Fixes #6125)",
       "url": "https://github.com/OWASP-BLT/BLT/pull/6142",
@@ -94,36 +124,6 @@
       "created_at": "2026-04-02T10:00:45Z",
       "merged_at": null,
       "repository": "OWASP-BLT/BLT"
-    },
-    {
-      "title": "Fix race condition in contributor activity detection",
-      "url": "https://github.com/OWASP-BLT/BLT-Pool/pull/112",
-      "username": "Jayant2908",
-      "avatar": "https://avatars.githubusercontent.com/u/200989760?v=4",
-      "state": "closed",
-      "created_at": "2026-04-02T05:12:10Z",
-      "merged_at": "2026-04-02T14:47:49Z",
-      "repository": "OWASP-BLT/BLT-Pool"
-    },
-    {
-      "title": "Remove study_course.html template",
-      "url": "https://github.com/OWASP-BLT/BLT/pull/6136",
-      "username": "krauzX",
-      "avatar": "https://avatars.githubusercontent.com/u/90498067?v=4",
-      "state": "open",
-      "created_at": "2026-04-02T04:08:27Z",
-      "merged_at": null,
-      "repository": "OWASP-BLT/BLT"
-    },
-    {
-      "title": " add BLT mega menu drop-in script covering all OWASP-BLT repos",
-      "url": "https://github.com/OWASP-BLT/BLT-Pages/pull/103",
-      "username": "BharathC0",
-      "avatar": "https://avatars.githubusercontent.com/u/211328860?v=4",
-      "state": "open",
-      "created_at": "2026-04-02T03:10:20Z",
-      "merged_at": null,
-      "repository": "OWASP-BLT/BLT-Pages"
     }
   ]
 }
