@@ -1,8 +1,8 @@
 {
   "participantCount": 194,
   "totalPRs": 2569,
-  "mergedPRs": 1595,
-  "totalIssues": 799,
+  "mergedPRs": 1596,
+  "totalIssues": 800,
   "repositories": 54,
   "topContributors": [
     {
@@ -30,9 +30,9 @@
       "url": "https://github.com/OWASP-BLT/BLT-Pool/pull/117",
       "username": "DonnieBLT",
       "avatar": "https://avatars.githubusercontent.com/u/128622481?v=4",
-      "state": "open",
+      "state": "closed",
       "created_at": "2026-04-07T19:51:15Z",
-      "merged_at": null,
+      "merged_at": "2026-04-07T20:02:43Z",
       "repository": "OWASP-BLT/BLT-Pool"
     },
     {
