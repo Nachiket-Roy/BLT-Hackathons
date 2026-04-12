@@ -1,6 +1,6 @@
 {
   "participantCount": 196,
-  "totalPRs": 2595,
+  "totalPRs": 2596,
   "mergedPRs": 1613,
   "totalIssues": 820,
   "repositories": 54,
@@ -46,7 +46,7 @@
       "repository": "OWASP-BLT/BLT-Jobs"
     },
     {
-      "title": "Fix/seeker links saved expiry refactor listeners",
+      "title": "[Fix] Seeker links fixed, added saved expiry mechanism and refactored listeners",
       "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/71",
       "username": "sidd190",
       "avatar": "https://avatars.githubusercontent.com/u/73955358?v=4",
