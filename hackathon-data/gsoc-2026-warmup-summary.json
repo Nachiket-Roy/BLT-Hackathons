@@ -1,7 +1,7 @@
 {
   "participantCount": 200,
   "totalPRs": 2620,
-  "mergedPRs": 1618,
+  "mergedPRs": 1619,
   "totalIssues": 829,
   "repositories": 54,
   "topContributors": [
@@ -30,7 +30,7 @@
       "url": "https://github.com/OWASP-BLT/BLT/pull/6190",
       "username": "Jayant2908",
       "avatar": "https://avatars.githubusercontent.com/u/200989760?v=4",
-      "state": "closed",
+      "state": "open",
       "created_at": "2026-04-14T17:59:18Z",
       "merged_at": null,
       "repository": "OWASP-BLT/BLT"
