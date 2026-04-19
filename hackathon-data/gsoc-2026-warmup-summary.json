@@ -1,6 +1,6 @@
 {
   "participantCount": 203,
-  "totalPRs": 2662,
+  "totalPRs": 2663,
   "mergedPRs": 1653,
   "totalIssues": 834,
   "repositories": 54,
@@ -18,13 +18,23 @@
       "mergedCount": 57
     },
     {
-      "username": "Pritz395",
-      "avatar": "https://avatars.githubusercontent.com/u/146115505?v=4",
-      "url": "https://github.com/Pritz395",
+      "username": "Jayant2908",
+      "avatar": "https://avatars.githubusercontent.com/u/200989760?v=4",
+      "url": "https://github.com/Jayant2908",
       "mergedCount": 39
     }
   ],
   "recentPRs": [
+    {
+      "title": "Fix/xss injection prevention",
+      "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/78",
+      "username": "sidd190",
+      "avatar": "https://avatars.githubusercontent.com/u/73955358?v=4",
+      "state": "open",
+      "created_at": "2026-04-19T14:03:18Z",
+      "merged_at": null,
+      "repository": "OWASP-BLT/BLT-Jobs"
+    },
     {
       "title": "fix: resolve non-functional room id copy in video room",
       "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/90",
@@ -113,16 +123,6 @@
       "state": "closed",
       "created_at": "2026-04-18T10:23:25Z",
       "merged_at": "2026-04-18T22:41:33Z",
-      "repository": "OWASP-BLT/BLT-SafeCloak"
-    },
-    {
-      "title": "fix(video): harden mute/unmute track toggle reliability",
-      "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/74",
-      "username": "ojaswa072",
-      "avatar": "https://avatars.githubusercontent.com/u/230836303?v=4",
-      "state": "closed",
-      "created_at": "2026-04-18T09:31:51Z",
-      "merged_at": "2026-04-18T20:42:08Z",
       "repository": "OWASP-BLT/BLT-SafeCloak"
     }
   ]
