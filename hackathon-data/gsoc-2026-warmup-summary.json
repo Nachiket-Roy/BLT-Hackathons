@@ -1,7 +1,7 @@
 {
   "participantCount": 203,
   "totalPRs": 2666,
-  "mergedPRs": 1654,
+  "mergedPRs": 1655,
   "totalIssues": 836,
   "repositories": 54,
   "topContributors": [
@@ -18,9 +18,9 @@
       "mergedCount": 57
     },
     {
-      "username": "Jayant2908",
-      "avatar": "https://avatars.githubusercontent.com/u/200989760?v=4",
-      "url": "https://github.com/Jayant2908",
+      "username": "Pritz395",
+      "avatar": "https://avatars.githubusercontent.com/u/146115505?v=4",
+      "url": "https://github.com/Pritz395",
       "mergedCount": 39
     }
   ],
@@ -90,9 +90,9 @@
       "url": "https://github.com/OWASP-BLT/BLT-SafeCloak/pull/88",
       "username": "ojaswa072",
       "avatar": "https://avatars.githubusercontent.com/u/230836303?v=4",
-      "state": "open",
+      "state": "closed",
       "created_at": "2026-04-19T08:06:29Z",
-      "merged_at": null,
+      "merged_at": "2026-04-19T19:31:01Z",
       "repository": "OWASP-BLT/BLT-SafeCloak"
     },
     {
