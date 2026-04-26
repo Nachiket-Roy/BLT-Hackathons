@@ -1,7 +1,7 @@
 {
   "participantCount": 205,
   "totalPRs": 2700,
-  "mergedPRs": 1677,
+  "mergedPRs": 1680,
   "totalIssues": 848,
   "repositories": 54,
   "topContributors": [
@@ -18,9 +18,9 @@
       "mergedCount": 57
     },
     {
-      "username": "Pritz395",
-      "avatar": "https://avatars.githubusercontent.com/u/146115505?v=4",
-      "url": "https://github.com/Pritz395",
+      "username": "Jayant2908",
+      "avatar": "https://avatars.githubusercontent.com/u/200989760?v=4",
+      "url": "https://github.com/Jayant2908",
       "mergedCount": 39
     }
   ],
@@ -50,9 +50,9 @@
       "url": "https://github.com/OWASP-BLT/BLT/pull/6215",
       "username": "santoslgl01-web",
       "avatar": "https://avatars.githubusercontent.com/u/260164570?v=4",
-      "state": "open",
+      "state": "closed",
       "created_at": "2026-04-26T01:48:33Z",
-      "merged_at": null,
+      "merged_at": "2026-04-26T05:27:53Z",
       "repository": "OWASP-BLT/BLT"
     },
     {
